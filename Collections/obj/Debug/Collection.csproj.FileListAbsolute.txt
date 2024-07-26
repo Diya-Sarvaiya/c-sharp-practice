@@ -1,0 +1,7 @@
+D:\C#\list_methods\bin\Debug\list_methods.exe.config
+D:\C#\list_methods\bin\Debug\list_methods.exe
+D:\C#\list_methods\bin\Debug\list_methods.pdb
+D:\C#\list_methods\obj\Debug\Collection.csproj.AssemblyReference.cache
+D:\C#\list_methods\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+D:\C#\list_methods\obj\Debug\list_methods.exe
+D:\C#\list_methods\obj\Debug\list_methods.pdb

@@ -1,0 +1,7 @@
+D:\C#\User-Defined-Exception\bin\Debug\User-Defined-Exception.exe.config
+D:\C#\User-Defined-Exception\bin\Debug\User-Defined-Exception.exe
+D:\C#\User-Defined-Exception\bin\Debug\User-Defined-Exception.pdb
+D:\C#\User-Defined-Exception\obj\Debug\User-Defined-Exception.csproj.CoreCompileInputs.cache
+D:\C#\User-Defined-Exception\obj\Debug\User-Defined-Exception.exe
+D:\C#\User-Defined-Exception\obj\Debug\User-Defined-Exception.pdb
+D:\C#\User-Defined-Exception\obj\Debug\User-Defined-Exception.csproj.AssemblyReference.cache
