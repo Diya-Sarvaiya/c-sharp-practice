@@ -1,0 +1,7 @@
+D:\C#\BirthdayPartyEvent\obj\Debug\BirthdayPartyEvent.csproj.AssemblyReference.cache
+D:\C#\BirthdayPartyEvent\obj\Debug\BirthdayPartyEvent.csproj.CoreCompileInputs.cache
+D:\C#\BirthdayPartyEvent\bin\Debug\BirthdayPartyEvent.exe.config
+D:\C#\BirthdayPartyEvent\bin\Debug\BirthdayPartyEvent.exe
+D:\C#\BirthdayPartyEvent\bin\Debug\BirthdayPartyEvent.pdb
+D:\C#\BirthdayPartyEvent\obj\Debug\BirthdayPartyEvent.exe
+D:\C#\BirthdayPartyEvent\obj\Debug\BirthdayPartyEvent.pdb

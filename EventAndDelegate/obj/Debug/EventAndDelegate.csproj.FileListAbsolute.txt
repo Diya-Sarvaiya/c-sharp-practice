@@ -1,0 +1,7 @@
+D:\C#\EventAndDelegate\bin\Debug\EventAndDelegate.exe.config
+D:\C#\EventAndDelegate\bin\Debug\EventAndDelegate.exe
+D:\C#\EventAndDelegate\bin\Debug\EventAndDelegate.pdb
+D:\C#\EventAndDelegate\obj\Debug\EventAndDelegate.csproj.AssemblyReference.cache
+D:\C#\EventAndDelegate\obj\Debug\EventAndDelegate.csproj.CoreCompileInputs.cache
+D:\C#\EventAndDelegate\obj\Debug\EventAndDelegate.exe
+D:\C#\EventAndDelegate\obj\Debug\EventAndDelegate.pdb
