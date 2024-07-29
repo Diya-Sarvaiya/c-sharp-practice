@@ -1,0 +1,7 @@
+D:\C#\LINQWithDB\bin\Debug\LINQWithDB.exe.config
+D:\C#\LINQWithDB\bin\Debug\LINQWithDB.exe
+D:\C#\LINQWithDB\bin\Debug\LINQWithDB.pdb
+D:\C#\LINQWithDB\obj\Debug\LINQWithDB.csproj.AssemblyReference.cache
+D:\C#\LINQWithDB\obj\Debug\LINQWithDB.csproj.CoreCompileInputs.cache
+D:\C#\LINQWithDB\obj\Debug\LINQWithDB.exe
+D:\C#\LINQWithDB\obj\Debug\LINQWithDB.pdb
