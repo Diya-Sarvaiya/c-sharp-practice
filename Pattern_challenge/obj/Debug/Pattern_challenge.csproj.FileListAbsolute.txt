@@ -1,0 +1,6 @@
+D:\C#\Pattern_challenge\bin\Debug\Pattern_challenge.exe.config
+D:\C#\Pattern_challenge\bin\Debug\Pattern_challenge.exe
+D:\C#\Pattern_challenge\bin\Debug\Pattern_challenge.pdb
+D:\C#\Pattern_challenge\obj\Debug\Pattern_challenge.csproj.CoreCompileInputs.cache
+D:\C#\Pattern_challenge\obj\Debug\Pattern_challenge.exe
+D:\C#\Pattern_challenge\obj\Debug\Pattern_challenge.pdb
